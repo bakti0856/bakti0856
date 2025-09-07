@@ -5,7 +5,7 @@
 ## 🚀 Tentang Saya
 - 🧑‍💻 Saya **bukan programmer** profesional, tapi belajar hal baru.
 - 🌱 Saat ini sedang mempelajari **JavaScript**.
-- 🎮 Main **Clash of clans**? Ajak saya bermain bersama!  
+- 🎮 Main **Clash of clans/Minecraft Java**? Ajak saya bermain bersama!  
 - 📫 Email saya: **[baktiprimayuda@gmail.com](mailto:baktiprimayuda@gmail.com)**
 
 ---
